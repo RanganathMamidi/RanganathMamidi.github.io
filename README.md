@@ -1,1 +1,1 @@
-# RanganathMamidi.github.io
+Personal static webpage for gitub page
